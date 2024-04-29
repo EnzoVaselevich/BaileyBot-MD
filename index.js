@@ -18,11 +18,11 @@ const rl = createInterface(process.stdin, process.stdout)
 say('Bailey\nBot\nMD', {
 font: 'block',
 align: 'center',
-colors: ['magenta', 'cyan']
+colors: ['BlueBright', 'cyan']
 })
-say(`Bot: ${name}\nVersion: 1.0.5\nCreador: Jxtxn ~ Ax\nNumero: +51 929 972 576\nEmail: baileybotmd@gmail.com`, {
+say(`BaileyBot-MD Hecho por Jxtxn17 / Contact: 51929972576`, {
 font: 'console',
-gradient: ['blue', 'magenta']
+gradient: ['green', 'magenta']
 })
 
 var isRunning = false
@@ -37,7 +37,7 @@ let args = [join(__dirname, file), ...process.argv.slice(2)]
 say([process.argv[0], ...args].join(' '), {
 font: 'console',
 align: 'center',
-gradient: ['blue', 'magenta']
+gradient: ['yellow', 'magenta']
 })
 setupMaster({
 exec: args[0],
@@ -69,6 +69,10 @@ let opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
 if (!opts['test'])
 if (!rl.listenerCount()) rl.on('line', line => {
 p.emit('message', line.trim())
+})
+}
+
+start('main.js')
 })
 }
 
