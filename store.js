@@ -36,23 +36,28 @@ global.img4 = 'https://telegra.ph/file/4f023f918af2bde72c839.jpg'
 global.img5 = 'https://telegra.ph/file/a34ebad4c9b5963c82f1a.jpg'
 global.img6 = 'https://telegra.ph/file/4e69f6c48d99f6c1174a9.jpg'
 global.img7 = 'https://telegra.ph/file/951275803faa754aff010.jpg'
-
-global.sityImg = [img, img1, img2, img3, img4, img5, img6, img7]
+global.img8 = 'https://telegra.ph/file/9f765ea386a9dd1a5f8e5.jpg'
+global.img9 = 'https://telegra.ph/file/011be97f80f19286ee4c7.jpg'
+global.img10 = 'https://telegra.ph/file/98bec3c66149fee093a3f.jpg'
+global.img11 = 'https://telegra.ph/file/d3c4150200fcba6fb15af.jpg'
+global.img12 = 'https://telegra.ph/file/fd775e4753173ecdf950a.jpg'
+global.img13 = 'https://telegra.ph/file/0476f5da331e1a1712df9.jpg'
+global.img14 = 'https://telegra.ph/file/2bda19dcfa7472089a3a3.jpg'
+global.ImgAll = [img, img1, img2, img3, img4, img5, img6, img7, img8, img9, img10, img11, img12, img13, img14]
 
 //Enlaces
 global.yt = 'https://www.youtube.com/@Azami_Mods'
 global.ig = 'https://www.instagram.com/b.jxtxn17'
 global.md = 'https://github.com/Jxtxn17/BaileyBot-MD'
-global.paypal = 'https://paypal.me/Azami19'
+global.paypal = '+51929972576'
 global.git = 'https://github.com/Jxtxn17'
-global.nn = 'https://chat.whatsapp.com/Dk5yfDPL66J3Oo99OWS9Wk' //Grupo ofc
+global.nn = 'https://chat.whatsapp.com/IA4POOxfwFN9iO1e9I2Qns' //Grupo ofc
 global.Curiosity = 'https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU' //Curiosity OFC
 global.hachiko = 'https://chat.whatsapp.com/LRQdtS7nKt89NBUPWJDjzh' //Hachiko OFC
 global.Lobo = 'https://chat.whatsapp.com/Li46EUQhA5tJqXEENfKPJd' //Lobo OFC
 global.nnn = 'https://chat.whatsapp.com/ENP021x0aR5HWvG1HpvlCo' //Bailey global
 global.channel = 'https://whatsapp.com/channel/0029VaDRDk2CBtxBVex2vB0Y' //BaileyBot-MD
 global.nnnn = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //colaboración multi bots
-global.nnnnn = 'https://chat.whatsapp.com/KlRcEfl8snBEEOA0JXzw5A' //enlace curiosity 
 global.linkSity = [yt, ig, md, paypal, git, nn]
 
 //Raíz
